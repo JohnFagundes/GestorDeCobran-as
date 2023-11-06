@@ -1,3 +1,4 @@
-## BACKEND - Desafio Final do Módulo 6
+## BACKEND - Gestor de Cobrancas
 
+Essa é uma api desenvolvida para gestão de cobranças e dividas.
 ---
